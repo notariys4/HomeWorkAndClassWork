@@ -1,0 +1,14 @@
+C:\Users\liltr\OneDrive\Desktop\HomeWork\Sem1\bin\Debug\net8.0\Sem1.exe
+C:\Users\liltr\OneDrive\Desktop\HomeWork\Sem1\bin\Debug\net8.0\Sem1.deps.json
+C:\Users\liltr\OneDrive\Desktop\HomeWork\Sem1\bin\Debug\net8.0\Sem1.runtimeconfig.json
+C:\Users\liltr\OneDrive\Desktop\HomeWork\Sem1\bin\Debug\net8.0\Sem1.dll
+C:\Users\liltr\OneDrive\Desktop\HomeWork\Sem1\bin\Debug\net8.0\Sem1.pdb
+C:\Users\liltr\OneDrive\Desktop\HomeWork\Sem1\obj\Debug\net8.0\Sem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liltr\OneDrive\Desktop\HomeWork\Sem1\obj\Debug\net8.0\Sem1.AssemblyInfoInputs.cache
+C:\Users\liltr\OneDrive\Desktop\HomeWork\Sem1\obj\Debug\net8.0\Sem1.AssemblyInfo.cs
+C:\Users\liltr\OneDrive\Desktop\HomeWork\Sem1\obj\Debug\net8.0\Sem1.csproj.CoreCompileInputs.cache
+C:\Users\liltr\OneDrive\Desktop\HomeWork\Sem1\obj\Debug\net8.0\Sem1.dll
+C:\Users\liltr\OneDrive\Desktop\HomeWork\Sem1\obj\Debug\net8.0\refint\Sem1.dll
+C:\Users\liltr\OneDrive\Desktop\HomeWork\Sem1\obj\Debug\net8.0\Sem1.pdb
+C:\Users\liltr\OneDrive\Desktop\HomeWork\Sem1\obj\Debug\net8.0\Sem1.genruntimeconfig.cache
+C:\Users\liltr\OneDrive\Desktop\HomeWork\Sem1\obj\Debug\net8.0\ref\Sem1.dll
