@@ -18,6 +18,15 @@ void PrintArray(int[] array)
     System.Console.WriteLine();
 }
 
+int[] creatNewArray(int[] array)
+{
+    int[] array2 = new int[array.Length / 2];
+    for (int i = 0; i < array.Length / 2; i++)
+    {
+        array2[i] = array[i] * array[array.Length - 1 - i];
+    }
+    return array2;
+}
 // bool FindNumber(int num, int[] array)
 // {
 //     foreach (int item in array)
